@@ -1,0 +1,31 @@
+li {
+    color: rgb(206, 187, 178);
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+h1{
+    color: rgb(163, 40, 71);
+    font-size: 32px;
+    text-align: center;
+    margin: 0px;
+    padding: 20px 0px;
+    text-shadow: 3px 3px 1px black;
+  }
+img{
+    display: block;
+    height: 100px;
+    margin: 0 auto;
+}
+html{
+    font-family: 'Pushster', cursive;
+    font-size: 20px;
+    background-color: #4fa1ee;
+}
+body{
+    width: 600px;
+    margin: 0px auto;
+    background-color: darkgray;
+    padding: 20px 20px;
+    border: 10px solid black;
+}
